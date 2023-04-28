@@ -12,8 +12,9 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/></a>
 <br />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JSP-FF9E0F?style=for-the-badge&logo=JSP&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JSP-FF9E0F?style=for-the-badge&logo=JSP&logoColor=white"/></a>
+
 
 <br />
 
