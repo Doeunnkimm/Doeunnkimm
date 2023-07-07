@@ -15,7 +15,7 @@
 
 <h3 align="center"> ⚡️ About Me ⚡️ </h3>
 <p align="center">
-  <a href="https://doeunn.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://doeunn.tistory.com"/></a>&nbsp
+  <a href="https://velog.io/@doeunnkimm_"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=ttps://velog.io/@doeunnkimm_"/></a>&nbsp
   <a href="mailto:doeunnkimm@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlwoabsdk@gmail.com"/></a>
 </p>
 
