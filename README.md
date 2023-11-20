@@ -1,5 +1,3 @@
-### Frontend Developer | Doeunnkimm
-
 #### 🎯 Mainly focusing on
 <img src="https://img.shields.io/badge/Javascript-F7DF1D?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
@@ -7,8 +5,11 @@
 <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white"/></a>
 
 #### ⚡️ About Me
-  <a href="https://velog.io/@doeunnkimm_"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=ttps://velog.io/@doeunnkimm_"/></a>
-  <a href="mailto:doeunnkimm@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlwoabsdk@gmail.com"/></a>
+<a href="https://velog.io/@doeunnkimm_"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=ttps://velog.io/@doeunnkimm_"/></a>
+<a href="mailto:doeunnkimm@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlwoabsdk@gmail.com"/></a>
+
+#### 🫧 Experiences
+- **Depromeet 14th** - web `(2023.11 ~ ing)`
 
 #### 🔥 Recent Post
 <a href="https://velog-readme-stats.vercel.app/api/redirect?name=doeunnkimm_"><img src="https://velog-readme-stats.vercel.app/api?name=doeunnkimm_"></a>
