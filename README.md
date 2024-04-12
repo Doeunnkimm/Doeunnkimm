@@ -9,7 +9,8 @@
 <a href="mailto:doeunnkimm@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlwoabsdk@gmail.com"/></a>
 
 #### 🫧 Experiences
-- ***[Depromeet 14th](https://github.com/depromeet/amazing3-fe)*** - WEB <sub>(2023.11 ~ 2024.02)</sub>
+- [Viva Republica(Toss)](https://toss.im/) / Frontend Developer Assistant <sub>(2024.04 ~ )</sub>
+- [Depromeet](https://github.com/depromeet/amazing3-fe) / 14기 WEB 파트 <sub>(2023.11 ~ 2024.02)</sub>
 
 #### 🔥 Recent Post
 <a href="https://velog-readme-stats.vercel.app/api/redirect?name=doeunnkimm_"><img src="https://velog-readme-stats.vercel.app/api?name=doeunnkimm_"></a>
