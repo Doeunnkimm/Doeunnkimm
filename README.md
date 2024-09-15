@@ -15,7 +15,7 @@
 
 
 #### 🫧 Experiences
-- [Depromeet](https://github.com/depromeet/15th-team3-FE)  |  15기 WEB 파트 <sub>(2024.06 ~)</sub>
+- [Depromeet](https://github.com/depromeet/15th-team3-FE)  |  15기 WEB 파트 <sub>(2024.06 ~ 2024.09)</sub>
 - [Depromeet](https://github.com/depromeet/amazing3-fe)  |  14기 WEB 파트 <sub>(2023.11 ~ 2024.02)</sub>
 
 #### 🔥 Recent Post
