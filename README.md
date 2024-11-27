@@ -10,13 +10,14 @@
 
 #### 💼 Work
 
-- [Viva Republica(Toss)](https://toss.im/) | Frontend Developer Assistant <sub>(2024.04 ~)</sub>
+##### ㅤㅤ✦ [Viva Republica(Toss)](https://toss.im/) <sub>Frontend Developer Assistant (2024.04 ~)</sub>
 
 
 
 #### 🫧 Experiences
-- [Depromeet](https://github.com/depromeet/15th-team3-FE)  |  15기 WEB 파트 <sub>(2024.06 ~ 2024.09)</sub>
-- [Depromeet](https://github.com/depromeet/amazing3-fe)  |  14기 WEB 파트 <sub>(2023.11 ~ 2024.02)</sub>
+
+##### ㅤㅤ✦ [Depromeet](https://github.com/depromeet/15th-team3-FE) <sub>15기 WEB 파트 (2024.06 ~ 2024.09)</sub>
+##### ㅤㅤ✦ [Depromeet](https://github.com/depromeet/amazing3-fe) <sub>14기 WEB 파트 (2023.11 ~ 2024.02)</sub>
 
 #### 🔥 Recent Post
 <a href="https://velog-readme-stats.vercel.app/api/redirect?name=doeunnkimm_"><img src="https://velog-readme-stats.vercel.app/api?name=doeunnkimm_"></a>
