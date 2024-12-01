@@ -20,7 +20,11 @@
 ##### ㅤㅤ✦ [Depromeet](https://github.com/depromeet/amazing3-fe) <sub>14기 WEB 파트 (2023.11 ~ 2024.02)</sub>
 
 #### 🔥 Recent Post
-<a href="https://velog-readme-stats.vercel.app/api/redirect?name=doeunnkimm_"><img src="https://velog-readme-stats.vercel.app/api?name=doeunnkimm_"></a>
+
+<span>
+  <a href="https://velog.io/@doeunnkimm_/posts"><img height="230px" src="https://velog-github-badge.vercel.app/badge/doeunnkimm_?theme=white&posts=3"/></a>
+</span>
+
 <img src="https://github.com/Doeunnkimm/Doeunnkimm/assets/112946860/572409e5-f0fc-4372-8409-e6b1b4772cee" width="130px" />
 
 
